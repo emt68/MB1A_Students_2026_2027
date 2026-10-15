@@ -1,0 +1,18 @@
+---
+title: "Brain data practical 1"
+author: "Evie"
+---
+Comparing the number of genes with regionally elevated expression in the forebrain in a human, pig and mouse.
+Human :
+```{r}
+sum(180,83,57,110)
+```
+Pig:
+```{r}
+sum(109,31,157,45)
+```
+Mouse:
+```{r}
+sum(55,185,60,98)
+```
+Therefore, humans had the highest number of genes, then the mouse and then the pig.
